@@ -3,7 +3,7 @@
 
 # Teknologi 1, Kea efterår 2021
 <div style="text-align:right"><small>
-Undervisning: Dat21v2 onsdage 08:30 - 11:45 <br>    
+Undervisning BRUH: Dat21v2 onsdage 08:30 - 11:45 <br>    
 Undervisning: Dat21v1 fredage 12:30 - 15:45 <br>    
 Underviser: Claus Bove, clbo@kea.dk <br>
 <br><br>
